@@ -14,6 +14,10 @@ package com.example.converterapp;
  * Nautical Mile
  */
 
+/**
+ * @author Brendan Kite
+ * Class that will convert units of distance
+ */
 
 public class DistanceConversions {
 

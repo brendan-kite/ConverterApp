@@ -1,5 +1,9 @@
 package com.example.converterapp;
 
+/**
+ * @author Brendan Kite
+ * Class to convert the various types of temperature measurements
+ */
 public class TemperatureConversions {
     private double FahrenheitToCelsius(double F) {
         return((F - 32) * 1.8);
